@@ -979,10 +979,6 @@ p {
     width: auto;
   }
 
-  .team-container {
-    margin-left: 24px;
-  }
-
   .customer-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Three columns of equal width */
